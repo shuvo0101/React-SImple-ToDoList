@@ -1,0 +1,22 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.heading{
+color: #ff1a1a;
+text-align: center;
+text-transform: capitalize;
+font-weight: bold;
+text-shadow: opx 2px 4px #ff1a1a ;
+margin: 70px 0px;
+font-family: 'Josefin Sans', sans-serif;
+}
+.img_div{
+display: flex;
+justify-content: center;
+
+}
+.img_div img{
+height: 200px;
+width: 200px;
+
+
+}
